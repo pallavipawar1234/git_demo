@@ -1,0 +1,8 @@
+/* styles.css */
+h1 {
+    color: #333; /* Dark gray text color */
+    font-size: 32px; /* Font size */
+    font-family: Arial, sans-serif; /* Font family */
+    text-align: center; /* Center-align text */
+    margin-top: 50px; /* Top margin */
+}
